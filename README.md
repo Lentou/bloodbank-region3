@@ -6,3 +6,4 @@ Blood Bank Region 3 Chapter: Reservation and Donation Management System <br>
 Website Demo:
 http://www.region3bloodbank.ml
 <br>
+Rework design soon with fixed containers or any browser supported
